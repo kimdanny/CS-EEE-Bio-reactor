@@ -10,3 +10,7 @@ Three subsystems including:
 
 Software written in:
 Arduino codes and Processing (for User Interface)
+
+Group member (contributor):
+  - Computer Science: Danny Toeun Kim, Karolina Skrivankova, Dillon Lim, Eliot Long, James Zhong.
+  - Electronics and Electrical Engineering: Khalil Bouranoire, Joseph Simon, Lucas Qin, X.Zou
